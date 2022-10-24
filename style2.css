@@ -1,0 +1,79 @@
+.hi{
+    color:black;
+    background-color:wheat;
+    border-radius: 5px;
+    border:solid 1px red;
+    text-align: center;
+    box-shadow: 0px 0px 20px crimson;
+    width: 200px;
+    padding:5px;
+}
+
+
+.btn-send{
+    color: black;
+    background-color:rgb(236, 226, 226);
+    border: solid 1px black;
+    box-shadow: 0px 0px 10px black;
+    border-radius: 5px;
+    transition-duration: 0.5s;
+}
+
+.btn-send:hover{
+    background-color: blue;
+    color: yellow;
+    cursor: pointer;
+}
+
+.nigger{
+    width:150px;
+    height:150px;
+    border-radius:50%;
+    border:solid 5px red;
+    transition-duration: 0.5s;
+    object-fit: fill;
+}
+.nigger:hover{
+    border:solid 5px green;
+    transform: scale(1.2);
+    cursor: pointer;
+}
+
+.dropdown-menu{
+    width: 250px;
+}
+
+.register{
+    width: 250px;
+    color: white;
+    padding-bottom: 7px;
+}
+
+.col{
+    width:300px;
+    display:inline-block;
+    height:10%;
+
+    margin-left:10px;
+}
+
+.card-img{
+    height:500px;
+    border-radius:0px 0px 0px 0px;
+}
+
+.card-body{
+    background-color:rgba(47, 46, 45);
+    color:white;
+}
+
+.about-me{
+    text-align: right;
+    border:solid 1px gray;
+    border-radius: 15px;
+    padding: 15px;
+}
+
+.about-img{
+    border-radius: 15px;
+}
